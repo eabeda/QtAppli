@@ -1,0 +1,2 @@
+# QtAppli
+QT C++ Application
